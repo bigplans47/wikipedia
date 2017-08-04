@@ -1,8 +1,4 @@
-.wikinav {
-float:left;
-width:80%;
-height:auto;
-}
+
 
 .row ul{
   list-style: none;
@@ -12,4 +8,13 @@ height:auto;
   margin: 20px;
 width: 75%;
 height: auto;
+}
+
+.topbox {
+  float: right;
+
+}
+
+.welcomebox {
+  padding-top: 10px;
 }
